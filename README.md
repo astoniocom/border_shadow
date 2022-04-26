@@ -1,10 +1,12 @@
+Please use the new package [https://pub.dev/packages/control_style](https://pub.dev/packages/control_style)
+
 Adds shadows (glowing) to text fields and buttons.
 
 ## Features
 
 ![demo](images/demo.gif)
 
-To add a shadow to an input or button you usually need to wrap these components into a `Container` element that has a shadow. Such an approach increases the volume of work, complicates the code and works incorrectly in combination with `error_text` and `help_text`.
+To add a shadow to an input or button you usually need to wrap these components into a `Container` element that has a shadow. Such an approach increases the volume of work, complicates the code and works incorrectly in combination with `errorText` and `helperText`.
 
 ![container shadow](images/container.png)
 

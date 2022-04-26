@@ -1,6 +1,6 @@
 name: border_shadow
 description: Adds shadows (glowing) to text fields and buttons in a Flutter application.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/astoniocom/border_shadow
 issue_tracker: https://github.com/astoniocom/border_shadow/issues
 homepage:
